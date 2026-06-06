@@ -1,5 +1,8 @@
 # Sovereign Brain
 
+[![CI](https://github.com/sophiacave/sovereign-brain/actions/workflows/ci.yml/badge.svg)](https://github.com/sophiacave/sovereign-brain/actions/workflows/ci.yml)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Tests: 30 passing](https://img.shields.io/badge/Tests-30%20passing-green.svg)](tests/)
