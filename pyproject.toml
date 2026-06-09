@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sovereign-brain"
-version = "1.0.0"
+version = "1.0.1"
 description = "Local-first persistent memory with semantic search. sqlite-vec powered. No cloud."
 readme = "README.md"
 license = {text = "MIT"}
