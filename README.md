@@ -1,3 +1,4 @@
+<!-- mcp-name: io.github.sophiacave/sovereign-brain -->
 # Sovereign Brain
 
 [![CI](https://github.com/sophiacave/sovereign-brain/actions/workflows/ci.yml/badge.svg)](https://github.com/sophiacave/sovereign-brain/actions/workflows/ci.yml)
